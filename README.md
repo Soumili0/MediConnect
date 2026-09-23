@@ -290,4 +290,4 @@ This project is for educational purposes.
 
 ---
 
-*Built with ❤️ using Spring Boot + React.js*
+*Built with ❤️ using Spring Boot + React.js @Mili*
